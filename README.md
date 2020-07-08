@@ -1,0 +1,1 @@
+https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.0.5
